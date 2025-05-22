@@ -4,6 +4,33 @@
   
   
   <entry>
+    <title>0522更新</title>
+    <link href="/2025/05/22/0522%E6%9B%B4%E6%96%B0/"/>
+    <url>/2025/05/22/0522%E6%9B%B4%E6%96%B0/</url>
+    
+    <content type="html"><![CDATA[<p>因為圖片空間仍搞不定<span id="more"></span>, 也不確定用github page 最後如果換了hexo的theme, 會不會因為特殊plugin或語法而死檔死圖, 暫時先將圖片畫質用XnCovert壓小, 節省一下github free的用量.</p><p>目前已經累積了大概5篇關於HTB的心得和圖文<br>目標還是近期看能不能把那個cloudflare pages 和 R2的每月每費流量轉換成圖片空間</p><p>另外關於theme, Fluid的設計的確是不錯看, 功能和分類也完整, 但是一些css和js的依賴空間是”baomitu”和”at.alicdn.com”<br>對我而言算是安全疑慮的一種, 雖然不是太嚴重, 還是會顧慮.<br>因此預計近期改一個theme試試, 如果直接變換失敗(畢竟有不少fluid主題自定的功能, 實在不想慢慢除錯), 砍掉整個Repo重來搞不好都比變更來的快, 畢竟文章Source存起來, npm重新install hexo環境後, 照結構丟回去重新生成就好了.</p><p><img src="/2025/05/22/0522%E6%9B%B4%E6%96%B0/Code_2025_05_22_23-21-09.png"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>技術類</category>
+      
+      <category>hexo</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>hexo</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>Meshtastic 更新</title>
     <link href="/2025/05/19/Meshtastic-%E6%9B%B4%E6%96%B0/"/>
     <url>/2025/05/19/Meshtastic-%E6%9B%B4%E6%96%B0/</url>
