@@ -4,6 +4,27 @@
   
   
   <entry>
+    <title>0615 流量測試與監控</title>
+    <link href="/2025/06/15/0615-%E6%B5%81%E9%87%8F%E6%B8%AC%E8%A9%A6%E8%88%87%E7%9B%A3%E6%8E%A7/"/>
+    <url>/2025/06/15/0615-%E6%B5%81%E9%87%8F%E6%B8%AC%E8%A9%A6%E8%88%87%E7%9B%A3%E6%8E%A7/</url>
+    
+    <content type="html"><![CDATA[<p>經過了約10天左右的流量監控與計算<span id="more"></span></p><h3 id="關於圖片"><a href="#關於圖片" class="headerlink" title="關於圖片"></a>關於圖片</h3><p>使用之低應該完全不影響github XD<br>所以Cloudflare暫時申請下來, 備而不用<br>我一張壓過的圖, 最大的才100~300 kb, 小的可能幾十kb而已</p><p>而R2 :<br><img src="/2025/06/15/0615-%E6%B5%81%E9%87%8F%E6%B8%AC%E8%A9%A6%E8%88%87%E7%9B%A3%E6%8E%A7/1.png" title="我根本不可能用完"></p><blockquote><blockquote><p>上面這張圖才30k左右<br>穩了</p></blockquote></blockquote><h3 id="HTB進度"><a href="#HTB進度" class="headerlink" title="HTB進度"></a>HTB進度</h3><p>最近發現了一點<strong>小狀況</strong>, 我竟然完全忘了這件事, 導致預估的時間嚴重失準<br>可能是因為最後在公司的時間都是處理歐規標準和文書審核居多, 完全忘了掃描等前置作業產生報告的時間, 差異可能很大 🫠</p><p>就算我的電腦規格, 算是還可以的</p><p><img src="/2025/06/15/0615-%E6%B5%81%E9%87%8F%E6%B8%AC%E8%A9%A6%E8%88%87%E7%9B%A3%E6%8E%A7/2.png"><br><img src="/2025/06/15/0615-%E6%B5%81%E9%87%8F%E6%B8%AC%E8%A9%A6%E8%88%87%E7%9B%A3%E6%8E%A7/3.png"></p><p>但在虛擬機和靶機之間跑完掃描result, 或是一些腳本, 有時候還時要幾十分到幾小時跑不掉<br>這樣一來, 我估2個月可以完成簡直樂觀, 解題練習找因果等result, 根本不是那麼簡單可以估一下的<br>從五月第一周後開始<br>在家的時間運用上, 我幾乎是1-5比上班還拚, 有體力就開始看和練題, 還常不定時搞熬夜🫠<br>這樣看到現在6月快半, 還感覺很難在月底可以看完, 還別提練習和需要整個復習的時間(另外又刷了HTB的LAB,不然之前的案例碰的感覺真的不夠)<br>考試券買課程得時候只有一張, 不像什麼恆逸有重考優惠或是免費</p><p><img src="/2025/06/15/0615-%E6%B5%81%E9%87%8F%E6%B8%AC%E8%A9%A6%E8%88%87%E7%9B%A3%E6%8E%A7/4.png" title="這張可是要210美 XDD"></p><p>還是要謹慎一點, 把握度需要更高一點🫠<br>衝吧🤣👍</p><p>另外也該來整理心得了, 今天點了一下, 各種的心得和筆記, 大概8篇?<br>不知道是最後複習的時候寫, 還是中間找空檔就發上來, 哪一種效果會比較好?</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>life</tag>
+      
+      <tag>HTB</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>0528 搞不定的圖床和進口設備</title>
     <link href="/2025/05/28/0528-%E6%90%9E%E4%B8%8D%E5%AE%9A%E7%9A%84%E5%9C%96%E5%BA%8A%E5%92%8C%E9%80%B2%E5%8F%A3%E8%A8%AD%E5%82%99/"/>
     <url>/2025/05/28/0528-%E6%90%9E%E4%B8%8D%E5%AE%9A%E7%9A%84%E5%9C%96%E5%BA%8A%E5%92%8C%E9%80%B2%E5%8F%A3%E8%A8%AD%E5%82%99/</url>
@@ -15,18 +36,18 @@
       
       <category>技術類</category>
       
-      <category>hexo</category>
-      
       <category>Meshtastic</category>
+      
+      <category>hexo</category>
       
     </categories>
     
     
     <tags>
       
-      <tag>Meshtastic</tag>
-      
       <tag>hexo</tag>
+      
+      <tag>Meshtastic</tag>
       
     </tags>
     
